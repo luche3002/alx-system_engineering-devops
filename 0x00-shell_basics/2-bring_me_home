@@ -1,3 +1,2 @@
 #!/bin/bash
-#Why is this thing not working 
 echo "$(cd ~)"
