@@ -1,0 +1,3 @@
+#!/bin/bash
+# I love thisx
+rm -r /tmp/my_first_directory
