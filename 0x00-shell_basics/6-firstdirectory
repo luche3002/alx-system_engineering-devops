@@ -1,3 +1,2 @@
 #!/bin/bash
-#Here we go again
-mkdir -p /tmp/my_first_directoryXSXS
+mkdir -p /tmp/my_first_directory
