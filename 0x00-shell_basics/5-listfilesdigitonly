@@ -1,0 +1,3 @@
+#!/bin/bash
+#it sucks that i have to do this first
+ls -la --numeric-uid-gid
