@@ -1,3 +1,2 @@
 #!/bin/bash
-# I have to do this
 rm /tmp/my_first_directory/betty/
