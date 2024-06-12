@@ -1,3 +1,2 @@
 #!/bin/bash
-#this
 rsync -av --include '*/' --include '*.html' --exclude '*' ./ ../
