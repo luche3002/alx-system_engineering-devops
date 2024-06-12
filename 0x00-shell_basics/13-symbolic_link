@@ -1,3 +1,2 @@
 #!/bin/bash
-# This
 ln -s /bin/ls __ls__
