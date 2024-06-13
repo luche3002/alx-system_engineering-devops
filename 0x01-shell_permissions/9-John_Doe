@@ -1,3 +1,2 @@
 #!/bin/bash
-#this
 chmod 753 hello; sudo chown julien hello; chgrp julien hello;
