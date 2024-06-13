@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -i -u betty
+login betty
