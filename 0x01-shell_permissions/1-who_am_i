@@ -1,3 +1,2 @@
 #!/bin/bash
-#this is it
 id -un
