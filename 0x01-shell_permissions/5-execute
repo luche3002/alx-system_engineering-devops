@@ -1,0 +1,3 @@
+#!/bin/bash
+#this
+chmod 100 hello
