@@ -1,0 +1,3 @@
+#!/bin/bash
+#this
+echo $((POWER/DIVIDE))
